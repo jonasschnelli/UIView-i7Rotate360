@@ -1,0 +1,41 @@
+This UIView Categorie (Extend) will allow you to rotate a view easly 360°
+Example:
+---
+[aView rotate360WithDuration:0.5 repeatCount:3 timingMode:i7Rotate360TimingModeLinear];
+or
+[aView rotate360WithDuration:2];
+---
+
+Version
+=======
+0.10
+
+License
+=======
+BSD
+
+Changelog
+==========
+12/01/2010 – Version 0.1 - package started
+
+
+Author
+======
+Jonas Schnelli / include7 AG - www.include7.ch
+
+
+		     	_            __          __  _____
+			   (_)___  _____/ /_  ______/ /_/__  /
+			  / / __ \/ ___/ / / / / __  / _ \/ /
+			 / / / / / /__/ / /_/ / /_/ /  __/ /
+			/_/_/ /_/\___/_/\__,_/\__,_/\___/_/........
+
+		
+
+URL
+===
+http://github.com/jonasschnelli/UIView-i7Rotate360
+
+Info
+====
+Have fun while using and extending this package.
